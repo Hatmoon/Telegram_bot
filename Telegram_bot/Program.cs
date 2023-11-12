@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;
@@ -9,4 +9,4 @@ using Telegram_bot.Class;
 using TL;
 using WTelegram;
 await authorization.Main();
-Console.ReadLine();*/
+Console.ReadLine();
