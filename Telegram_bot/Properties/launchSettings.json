@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Профиль 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\user\\Desktop\\Telegram_bot\\Telegram_bot.sln"
+    },
+    "Профиль 2": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\user\\Desktop\\Telegram_bot"
+    }
+  }
+}
